@@ -10,3 +10,10 @@ and may convert this project to little HTML web page, which use Typescript... or
 Enjoy
 Sam Klok
 2021
+
+USAGE in node.js console:
+
+C:\Repos\FibonacciSequenceAlgorithm>tsc
+
+C:\Repos\FibonacciSequenceAlgorithm>node js/fibonacci.js
+sum of (5) fibonacci numbers = 10
